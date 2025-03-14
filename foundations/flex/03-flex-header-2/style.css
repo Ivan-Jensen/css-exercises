@@ -15,7 +15,6 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  gap: 16px;
 }
 
 .profile-image {
@@ -40,7 +39,6 @@ button {
   color: white;
   padding: 8px 24px;
   display: flex;
-  margin-left: auto;
   align-items: center;
 }
 
@@ -57,4 +55,10 @@ ul {
   gap: 16px;
   margin: 0px;
   padding: 0;
+}
+
+.left, .right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }

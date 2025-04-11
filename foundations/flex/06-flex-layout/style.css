@@ -43,4 +43,5 @@ a {
   flex-direction: center;
   justify-content: center;
   flex-direction: column;
+  flex: 1;
 }

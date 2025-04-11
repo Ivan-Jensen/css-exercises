@@ -44,4 +44,5 @@ a {
   justify-content: center;
   flex-direction: column;
   flex: 1;
+  gap: 10px;
 }

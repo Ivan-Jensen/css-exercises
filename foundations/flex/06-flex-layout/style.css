@@ -18,7 +18,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 8px;
+  padding: 8px 24px;
 }
 
 input {
@@ -47,7 +47,7 @@ a {
   justify-content: center;
   flex-direction: column;
   flex: 1;
-  gap: 10px;
+  gap: 16px;
 }
 
 .header, .footer {

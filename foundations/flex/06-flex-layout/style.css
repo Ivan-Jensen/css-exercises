@@ -46,3 +46,8 @@ a {
   flex: 1;
   gap: 10px;
 }
+
+.header, .footer {
+  justify-content: space-between;
+  display: flex;
+}

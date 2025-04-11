@@ -79,3 +79,7 @@ button.cancel {
   font-weight: bold;
   font-size: 18px;
 }
+
+.text {
+  margin-bottom: 16px;
+}

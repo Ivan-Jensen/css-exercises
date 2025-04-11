@@ -37,3 +37,10 @@ a {
   color: grey;
   text-decoration: none;
 }
+
+.content {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  flex-direction: column;
+}

@@ -52,4 +52,5 @@ a {
 .header, .footer {
   justify-content: space-between;
   display: flex;
+  padding: 16px;
 }
